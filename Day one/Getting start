@@ -1,0 +1,53 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled14.ipynb",
+      "provenance": [],
+      "collapsed_sections": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "wEgMTPkIihpN"
+      },
+      "source": [
+        "####Day One - 100 Days challange in Data Science"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "1BxKVJ9wGZB-"
+      },
+      "source": [
+        "# Measuring central tendency  "
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "LzpQz3N-G_5g"
+      },
+      "source": [
+        "**`Measuring central tendency : means measuring the center or distribution of location of values of a data set. It gives an idea of the average value of the data in the data set and also an indication of how widely the values are spread in the data set,  There are three main measures of central tendency which can be calculated using the methods in pandas python library.\n",
+        "\n",
+        "- **Mean** - It is the Average value of the data which is a division of sum of the values with the number of values.\n",
+        "\n",
+        "- **Median** - It is the middle value in distribution when the values are arranged in ascending or descending order.\n",
+        "\n",
+        "- **Mode** - It is the most commonly occurring value in a distribution\n",
+        "\n",
+        "---"
+      ]
+    },
